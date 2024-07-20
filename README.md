@@ -33,3 +33,5 @@ To view the sorted data (for verification):
 1. Locate the line: // Good place to call printSortedData() 
 2. Add the following line below it: printSortedData(data, sortNames[i]); 
 3. Adjust the 'rows' variable in the printSortedData method to control how many sorted elements to display Note: Sorting larger datasets (e.g., 500,000 elements) may take several minutes, especially for less efficient algorithms like Bubble Sort. Enjoy comparing the performance of different sorting algorithms and exploring the optimized FastMergeSort implementation!
+
+This project was apart of the CS245 course at University of San Francisco Spring 2022
